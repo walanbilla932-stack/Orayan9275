@@ -1,0 +1,12 @@
+{
+  "name": "orayan-structure-hunter",
+  "version": "3.0.0",
+  "description": "Orayan Structure Hunter — crypto futures scanner with AI agent",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
